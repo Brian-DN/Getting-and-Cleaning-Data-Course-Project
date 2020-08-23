@@ -21,4 +21,4 @@ Add subjects and label each train and test into train and test set, then call ne
 4. Appropriately labels the data set with descriptive variable names: get4
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable
-for each activity and each subject *sub, act, col, x, get5*
+for each activity and each subject: sub, act, col, x, get5
