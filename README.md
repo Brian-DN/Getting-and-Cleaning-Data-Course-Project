@@ -36,7 +36,7 @@ The dataset includes the following files:
 
 Notes: 
 ======
-- Please read CodeBook.md and run_analysis.R to understand step by step.
+- Please read CodeBook.md and run_analysis.R to understand.
 
 For more information about this dataset contact: hinbearth@gmail.com
 
